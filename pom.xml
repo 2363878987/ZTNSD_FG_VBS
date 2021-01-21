@@ -34,7 +34,7 @@
         <shiro.version>1.2.3</shiro.version>
         <druid.version>1.0.9</druid.version>
         <commons-lang3.version>3.3.2</commons-lang3.version>
-        <jackson.version>2.4.2</jackson.version>
+        <jackson.version>2.9.10.7</jackson.version>
         <pagehelper.version>3.4.2-fix</pagehelper.version>
         <jstl.version>1.2</jstl.version>
     </properties>
